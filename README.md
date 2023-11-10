@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Alex and I'm a designer - I only really use GitHub for hackathons but you can check out my portfolio!
 
 <!--
 **alexdshernandez/alexdshernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
